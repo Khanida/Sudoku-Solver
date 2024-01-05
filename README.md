@@ -1,6 +1,6 @@
 # Sudoku Solver User Guide
 
-Welcome to the Sudoku Solver! This Python program uses a backtracking algorithm to find a solution for a given Sudoku puzzle. Follow this guide to use the code effectively:
+Welcome to the Sudoku Solver! This Python program uses a recursive backtracking algorithm to find a solution for a given Sudoku puzzle. Follow this guide to use the code effectively:
 
 ## Prerequisites:
 Make sure you have Python installed on your system. You can download it from Python's official website.
